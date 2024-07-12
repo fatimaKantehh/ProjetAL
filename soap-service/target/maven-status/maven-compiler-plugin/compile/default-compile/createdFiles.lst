@@ -1,0 +1,8 @@
+com\example\UserService.class
+com\example\SoapServer.class
+com\example\UserServiceImpl.class
+com\example\App.class
+com\example\User.class
+com\example\client\UserServiceImplService.class
+com\example\TokenResponse.class
+com\example\client\ClientApp.class

@@ -1,0 +1,5 @@
+com\example\rest\Article.class
+com\example\rest\App.class
+com\example\rest\ArticleResource.class
+com\example\rest\ApplicationConfig.class
+com\example\rest\ArticleRepository.class
